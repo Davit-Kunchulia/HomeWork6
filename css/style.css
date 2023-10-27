@@ -71,3 +71,37 @@ figcaption {
     font-size: 20px;
     padding: 33px 0 33px 0;
 }
+
+
+/* footer */
+footer {
+    background-color: #758BFD;
+}
+
+p {
+    color: white;
+    font-size: 20px;
+    padding: 75px 0 10px 98px;
+}
+
+.fa-facebook-f,
+.fa-linkedin-in,
+.fa-instagram {
+    color: white;
+}
+
+.footer_div {
+    display: flex;
+    column-gap: 15px;
+    padding: 0 0 105px 98px;
+}
+
+.footer_div2 {
+    padding: 0 104px 109px 0;
+}
+
+.footer_main_div {
+    display: flex;
+    justify-content: space-between;
+}
+    
