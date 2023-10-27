@@ -1,0 +1,37 @@
+.container {
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+    /* border: 10px solid red; */
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 52px 98px;
+}
+
+
+ul {
+    display: flex;
+    column-gap: 50px;
+}
+
+
+.activate {
+    color: #27187F;
+    font-size: 24px;
+}
+
+.no_activate {
+    color: #758BFD;
+    font-size: 24px;
+}
+
+.fa-magnifying-glass {
+    color: #758BFD;
+    padding: 10px 10px 10px 182px;
+    border: 3px solid #758BFD;
+    border-radius: 10px;
+}
